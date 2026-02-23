@@ -2,7 +2,7 @@
 ### A Containerized CAD Framework for Bit-Flip Logic Obfuscation
 ---
 ## 📌 Overview
-**KAVACH** is a containerized, plug-and-play CAD framework for automated bit-flip logic obfuscation integration and adversarial evaluation for hardware integrity protection.
+KAVACH** is a containerized, plug-and-play CAD framework for automated bit-flip logic obfuscation integration and adversarial evaluation for hardware integrity protection.
 ---
 
 ## 🎯 Repository Purpose
