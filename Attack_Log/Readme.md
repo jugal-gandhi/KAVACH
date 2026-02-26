@@ -4,6 +4,7 @@ This contains the **attack execution logs** generated for the evaluation of lock
 
 ## 📁 Repository Structure
 
+```bash
 Attack_Log/
 |
 ├── benchmark/
@@ -12,6 +13,7 @@ Attack_Log/
 |   └── SWEEP<benchmarkname>_K<keysize>.txt
 |
 └── README.md
+```
 
 where:
 - `<benchname>` → Name of the benchmark circuit  
