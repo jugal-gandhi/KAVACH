@@ -1,0 +1,11 @@
+==========================================  SCOPE Attack Phase  ==================================================
+SCOPE Attack for b18_C_kavach_K32.bench
+COPE metric: 0.0 %
+original_key :  01000110000011101110110001110100
+Extracted Key 1:  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Extracted Key 2:  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+SCOPE Attack for b18_C_kavach_K32.bench Ended,    Runtime: 58.68 Seconds
+------------------------------------------------------------------------------------------------------------------
+SCOPE Attack Runtime: 58.79 Seconds
+SCOPE Attack Ended
+==========================================  SCOPE Attack Ended  ==================================================

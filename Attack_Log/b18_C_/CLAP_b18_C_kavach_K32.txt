@@ -1,0 +1,55 @@
+UC Berkeley, ABC 1.01 (compiled Jun 30 2025 15:04:49)
+[?1034habc 01> read_bench KAVACH_Locked/b18_C_kavach_K32.bench; clap -m -l 0.5 -k 01000 110000011101110110001110100; quit
+Could not open file ./tmp/aa91f83-5b547dee.v
+0.500000
+
+CLAP ATTACK CONFIGURATION:
+Physical attack algorithm (0: Fixed EOFM Probe, 1: Multinode Probe): 1
+Keys Considered Cutoff (i.e. max fanin keys for node): 7
+Keys Eliminated Cutoff (minumum portion of keyspace that must be eliminated to probe -- MULTI-NODE PROBING ONLY!): 0.500000
+Correct Oracle Key: {0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 0, 0, 0, 1, 1, 1, 0, 1, 0, 0, }
+Output File for Logical Attack: physical_clap_out.bench
+
+Launching CLAP Attack...
+
+Set Number of Keys considered to: 1
+
+Set Number of Keys considered to: 2
+
+Set Number of Keys considered to: 3
+
+Sat Miter Node Pairing: OR_2 	Identifiable Keys from Miter: 0.250000
+Sat Miter Node Pairing: OR_18 	Identifiable Keys from Miter: 0.250000
+
+Set Number of Keys considered to: 4
+
+Sat Miter Node Pairing: OR_2 	Identifiable Keys from Miter: 0.250000
+Sat Miter Node Pairing: OR_18 	Identifiable Keys from Miter: 0.250000
+Sat Miter Node Pairing: OR_3 	Identifiable Keys from Miter: 0.125000
+Sat Miter Node Pairing: OR_19 	Identifiable Keys from Miter: 0.125000
+
+Set Number of Keys considered to: 5
+
+Sat Miter Node Pairing: OR_2 	Identifiable Keys from Miter: 0.250000
+Sat Miter Node Pairing: OR_18 	Identifiable Keys from Miter: 0.250000
+Sat Miter Node Pairing: OR_3 	Identifiable Keys from Miter: 0.125000
+Sat Miter Node Pairing: OR_19 	Identifiable Keys from Miter: 0.125000
+Sat Miter Node Pairing: OR_4 	Identifiable Keys from Miter: 0.062500
+Sat Miter Node Pairing: OR_20 	Identifiable Keys from Miter: 0.062500
+
+Set Number of Keys considered to: 6
+
+Sat Miter Node Pairing: OR_2 	Identifiable Keys from Miter: 0.250000
+Sat Miter Node Pairing: OR_18 	Identifiable Keys from Miter: 0.250000
+Sat Miter Node Pairing: OR_3 	Identifiable Keys from Miter: 0.125000
+Sat Miter Node Pairing: OR_19 	Identifiable Keys from Miter: 0.125000
+Sat Miter Node Pairing: OR_4 	Identifiable Keys from Miter: 0.062500
+Sat Miter Node Pairing: OR_20 	Identifiable Keys from Miter: 0.062500
+Sat Miter Node Pairing: OR_5 	Identifiable Keys from Miter: 0.031250
+Sat Miter Node Pairing: OR_21 	Identifiable Keys from Miter: 0.031250
+
+Verilog file: ./tmp/aa91f83-5b547dee.v
+Partial key leakage: 0
+KeyStore is now: {-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, }
+
+We found 0 of 32 total keys using 0 probes

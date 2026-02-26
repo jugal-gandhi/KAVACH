@@ -1,0 +1,18 @@
+=========================================  SWEEP Training Phase  =================================================
+Feature: BDD        Weight 1 = 0.184625876851
+Feature: EDGES      Weight 2 = 0.18808456742
+Feature: AND        Weight 3 = 0.182385035074
+Feature: Vars       Weight 4 = 0.131771239283
+Feature: Clauses    Weight 5 = 0.131576383476
+Feature: Literals   Weight 6 = 0.120226032736
+Warning: no input argument for classification margin, using default value.
+Classification Margin = 0.0
+SWEEP Training Runtime:   1696.95 Seconds
+==========================================  SWEEP Attack Phase  ==================================================
+SWEEP Attack for b18_C_kavach_K32.bench Ended,    Runtime: 59.2 Seconds
+original_key :  01000110000011101110110001110100
+extracted_key : XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+------------------------------------------------------------------------------------------------------------------
+SWEEP Attack Runtime: 61.28 Seconds
+SWEEP Attack Ended
+==========================================  SWEEP Attack Ended  ==================================================
