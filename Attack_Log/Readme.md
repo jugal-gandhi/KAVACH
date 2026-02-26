@@ -5,12 +5,12 @@ This contains the **attack execution logs** generated for the evaluation of lock
 ## 📁 Repository Structure
 
 Attack_Log/
-│
+|
 ├── benchmark/
-│ ├── CLAP_<benchname>K<keysize>.txt
-│ ├── SCOPE<benchname>K<keysize>.txt
-│ └── SWEEP<benchname>_K<keysize>.txt
-│
+|   ├── CLAP_<benchmarkname>K<keysize>.txt
+|   ├── SCOPE<benchmarkname>K<keysize>.txt
+|   └── SWEEP<benchmarkname>_K<keysize>.txt
+|
 └── README.md
 
 where:
