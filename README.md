@@ -1,16 +1,12 @@
 # 🛡️ KAVACH  
 ### A Containerized CAD Framework for Bit-Flip Logic Obfuscation
 ---
-## 📌 Overview
-KAVACH is a containerized, plug-and-play CAD framework for automated bit-flip logic obfuscation integration and adversarial evaluation for hardware integrity protection.
----
 
 ## 🎯 Repository Purpose
 
 This public repository is intended **for reviewer**.
 
 It contains runtime and memory statistics for 
-- Oracle-guided SAT attack logs  
 - Learning-guided structural attack outputs (SCOPE, SWEEP)  
 - Combined logical–physical probing (CLAP) traces    
 
@@ -25,7 +21,6 @@ Attack_Log/
 |
 └── README.md
 ```
-
 
 ## ⚙ Experimental Configuration
 All experiments correspond to Section 4 of the manuscript
