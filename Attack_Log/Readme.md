@@ -1,14 +1,16 @@
 # Attack_Log
 
 This contains the **attack execution logs** generated for the evaluation of locked benchmark circuits.
-## Repository Structure
+
+## 📁 Repository Structure
 
 Attack_Log/
 │
 ├── benchmark/
 │ ├── CLAP_<benchname>K<keysize>.txt
-│ ├── CLAP<benchname>K<keysize>.txt
-│ └── CLAP<benchname>_K<keysize>.txt
+│ ├── SCOPE<benchname>K<keysize>.txt
+│ └── SWEEP<benchname>_K<keysize>.txt
+│
 └── README.md
 
 where:
