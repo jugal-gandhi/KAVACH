@@ -16,10 +16,14 @@ It contains runtime and memory statistics for
 
 ## 📂 Repository Structure
 ```bash
-KAVACH/
-├── sat_log/           # Iterative solver traces
-├── structural_log/    # Structural attack outputs (SCOPE/SWEEP)
-├── clap_log/          # Combined Logical-Physical Probing (CLAP) log
+Attack_Log/
+|
+├── benchmark/
+|   ├── CLAP_<benchmarkname>K<keysize>.txt
+|   ├── SCOPE<benchmarkname>K<keysize>.txt
+|   └── SWEEP<benchmarkname>_K<keysize>.txt
+|
+└── README.md
 ```
 
 
